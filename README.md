@@ -39,7 +39,7 @@ At **Tradelio**, we believe in:
 ## 💻 Tech Stack
 
 **Backend:** Node.js · Python · Go  
-**Frontend:** React · Next.js · Flutter  · React Native
+**Frontend:** React · Next.js · Flutter · React Native <br/>
 **Database:** PostgreSQL · MongoDB · Redis  
 **APIs:** REST · WebSockets  
 **Infrastructure:** AWS · Docker · CI/CD  
